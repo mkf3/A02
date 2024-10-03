@@ -32,11 +32,16 @@ It is a website and cloud-based service that helps developers store and manage t
 It is a fundamental command in the Git version control system that integrates changes from one branch into another.
 
 #### *Merge Conflict:
+It happens when two branches both modify the same region of a file and are subsequently merged. Git can't know which of the changes to keep, and thus needs human intervention to resolve the conflict.
 
 #### *Push:
+It allows us (programmers) to transfer files from the local repository to remote repository hosting services like GitHub, GitLab, etc.
 
-#### * Pull:
+#### *Pull:
+It  is a command which is used to fetch and integrate the changes which are present in the remote repository to the local repository.
 
 #### *Remote:
+It is a command used to manage a set of tracked repositories, often referred to as "remotes". A remote is a common repository that all team members use to exchange their changes. 
 
 #### *Repository:
+It is the .git/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time.
