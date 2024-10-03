@@ -18,6 +18,8 @@ Overall, Github is useful for developers to store and manage their codes. Simply
 
 Now, GIT? IS IT THE SAME AS GITHUB? CHOW CAN WE USE IT?
 
+GIT and GITHUB have a lot of similarities even though they are different. Git possesses many commands and features similar to Github such as pull, push, fetch, merge, clone, branches, commit, local and remote repository. 
+
 
   ### GLOSSARY
 Below is a glossary of the different terms that you may encouter while using Github, Git or Webstorm:
